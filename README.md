@@ -450,4 +450,4 @@ AI & Machine Learning Engineer
 
 GitHub: https://github.com/samuelrajgarikimukku
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: https://www.linkedin.com/in/samuelrajgofficial
